@@ -36,6 +36,4 @@ python scripts/ask.py --index_dir indexes/example_paper --question "What is the 
 streamlit run app/streamlit_app.py
 ```
 
-## CV bullet
 
-Built a RAG-based scientific paper assistant using PDF parsing, embeddings, FAISS vector search, citation-grounded generation, and Streamlit deployment.
